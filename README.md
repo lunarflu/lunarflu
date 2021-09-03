@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunarflu
-- 👀 I’m interested in xenomorphs and tomboys
-- 🌱 I’m currently learning
+- 👀 I’m interested in xenomorphs and AI
+- 🌱 I’m currently learning CMSS13
 - 💞️ I’m looking to collaborate on AI / ML / AGI projects / AI in videogames
 - 📫 How to reach me lunarfu@gmail.com
 
